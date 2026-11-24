@@ -1,0 +1,1 @@
+A collection of my activities and exercises i'm doing towards learnign reverse engineering.
